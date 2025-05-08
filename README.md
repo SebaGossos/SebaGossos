@@ -14,3 +14,35 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there 👋, I'm Wini!
+
+I'm a passionate software engineering student who loves building things that make life easier. I enjoy learning new technologies, solving real-world problems, and collaborating on open-source projects.
+
+## 🚀 About Me
+
+- 🎓 Studying Systems Engineering  
+- 💻 Focused on web development, both frontend and backend  
+- 📚 Always learning — currently diving into Node.js and cloud services  
+- ⚙️ Love to automate repetitive tasks and write clean, efficient code
+
+## 🛠 Tech Stack
+
+- **Languages:** JavaScript, Python, Java  
+- **Frontend:** HTML, CSS, React  
+- **Backend:** Node.js, Express  
+- **Databases:** MongoDB, MySQL  
+- **Tools:** Git, VS Code, Postman
+
+## 📈 GitHub Stats
+
+![Wini's GitHub stats](https://github-readme-stats.vercel.app/api?username=wini&show_icons=true&theme=radical)
+
+## 📬 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/)  
+- 🌐 [Portfolio](https://your-portfolio-link.com) *(if you have one)*  
+- 📧 Reach me at: your-email@example.com
+
+---
+
+Thanks for visiting my profile! 🙌
