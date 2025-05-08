@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **SebaGossos/SebaGossos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there 👋, I'm Wini!
+# Hi there 👋, I'm Sebastián!
 
-I'm a passionate software engineering student who loves building things that make life easier. I enjoy learning new technologies, solving real-world problems, and collaborating on open-source projects.
+A passionate software engineering student who loves building things that make life easier. I enjoy learning new technologies, solving real-world problems, and collaborating on open-source projects.
 
 ## 🚀 About Me
 
