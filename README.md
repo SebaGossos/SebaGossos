@@ -25,21 +25,22 @@ A passionate software engineering student who loves building things that make li
 
 ## 🛠 Tech Stack
 
-- **Languages:** JavaScript, Python, Java  
+- **Languages:** JavaScript, Python
 - **Frontend:** HTML, CSS, React  
 - **Backend:** Node.js, Express  
 - **Databases:** MongoDB, MySQL  
 - **Tools:** Git, VS Code, Postman
-
+<!--
 ## 📈 GitHub Stats
-
 ![Wini's GitHub stats](https://github-readme-stats.vercel.app/api?username=wini&show_icons=true&theme=radical)
-
+-->
 ## 📬 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/)  
+- 💼 [LinkedIn](www.linkedin.com/in/sebastián-gossos-a70989180)
+<!--
 - 🌐 [Portfolio](https://your-portfolio-link.com) *(if you have one)*  
 - 📧 Reach me at: your-email@example.com
+-->
 
 ---
 
