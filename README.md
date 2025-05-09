@@ -36,7 +36,7 @@ A passionate software engineering student who loves building things that make li
 -->
 ## 📬 Let's Connect!
 
-- 💼 [LinkedIn](www.linkedin.com/in/sebastián-gossos-a70989180)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sebags)
 <!--
 - 🌐 [Portfolio](https://your-portfolio-link.com) *(if you have one)*  
 - 📧 Reach me at: your-email@example.com
