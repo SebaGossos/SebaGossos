@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hi there 👋, I'm Sebastián!
 
-A passionate software engineering student who loves building things that make life easier. I enjoy learning new technologies, solving real-world problems, and collaborating on open-source projects.
+A passionate software engineering who loves building things that make life easier. I enjoy learning new technologies, solving real-world problems, and collaborating on open-source projects.
 
 ## 🚀 About Me
 
@@ -25,11 +25,11 @@ A passionate software engineering student who loves building things that make li
 
 ## 🛠 Tech Stack
 
-- **Languages:** JavaScript, Python
+- **Languages:** TypeScript, Python
 - **Frontend:** HTML, CSS, React  
 - **Backend:** Node.js, Express  
 - **Databases:** MongoDB, MySQL  
-- **Tools:** Git, VS Code, Postman
+- **Tools:** Git, VS Code, Postman, Jest
 <!--
 ## 📈 GitHub Stats
 ![Wini's GitHub stats](https://github-readme-stats.vercel.app/api?username=wini&show_icons=true&theme=radical)
