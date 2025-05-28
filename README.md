@@ -18,7 +18,7 @@ A passionate software engineering who loves building things that make life easie
 
 ## 🚀 About Me
 
-- 🎓 Studying Systems Engineering  
+- 🎓 Studying Programming at UTN
 - 💻 Focused on web development, both frontend and backend  
 - 📚 Always learning — currently diving into Node.js and cloud services  
 - ⚙️ Love to automate repetitive tasks and write clean, efficient code
@@ -37,10 +37,9 @@ A passionate software engineering who loves building things that make life easie
 ## 📬 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sebags)
-<!--
-- 🌐 [Portfolio](https://your-portfolio-link.com) *(if you have one)*  
-- 📧 Reach me at: your-email@example.com
--->
+- 🌐 [Portfolio](https://sebags.site) 
+- 📧 Reach me at: sebags.network@gmail.com
+
 
 ---
 
